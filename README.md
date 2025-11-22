@@ -1,16 +1,7 @@
 一下内容为AI生成，规划only
+readme文档 0.1v
 # VisionComplete成为 
 
-> **"You do not rise to the level of your goals. You fall to the level of your systems."** — James Clear, *Atomic Habits*
->
-> **不仅仅是电子宠物，而是你理想自我的 AI 守护者。**
-
-[![Project Status: Planning](https://img.shields.io/badge/Status-Planning%20%26%20Design-blueviolet)]()
-[![Godot Engine](https://img.shields.io/badge/Godot-4.x-478cbf?logo=godot-engine&logoColor=white)](https://godotengine.org/)
-[![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
-[![Steam](https://img.shields.io/badge/Steam-Targeting-1b2838?logo=steam&logoColor=white)]()
-
----
 
 ## 🚧 项目状态：规划中 (Planning Phase)
 
@@ -67,7 +58,7 @@
 visioncomplete/
 │
 ├── README.md                   # 项目核心文档
-├── LICENSE                     # MIT 许可证
+├── LICENSE                     # AGPL v3 许可证
 ├── .gitignore                  # Git 忽略配置
 │
 ├── docs/                       # 📜 文档中心
